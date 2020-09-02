@@ -1,0 +1,9 @@
+~ = represents the current user home folder 
+cd = "change directory"
+ls = " list items in directory"
+clear = "clean the list of comants" or ctrl+L
+/ = root folder of the file system
+.. = represents the parent folder of the current folder
+mkdir= create a folder
+git init= repository
+ls -a= shows the hiden folder
